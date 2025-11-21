@@ -32,10 +32,14 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+![WhatsApp Image 2025-10-18 at 09 19 33_28580eef](https://github.com/user-attachments/assets/4848539b-c730-4285-94bd-f94ca0051042)
+## Calculation:
+![WhatsApp Image 2025-10-18 at 09 19 33_870d548d](https://github.com/user-attachments/assets/f3205f9a-6488-4350-89a0-521810ff051a)
 
 
 GRAPH: 
+![WhatsApp Image 2025-10-18 at 09 19 34_edcf20d5](https://github.com/user-attachments/assets/bec60eb1-a676-4868-b863-0f1c8ba2c4e7)
 
 
 RESULT:
-
+Thus, the instrumentation amplifiers are designed and successfully tested using Op-Amp IC741
